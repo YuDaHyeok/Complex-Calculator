@@ -51,10 +51,7 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 - Permutation & Combination
 
 
-Feature in GUI calculator are:
-Addition
-Subtraction
-Multiplication
-Division
-Support for multiple stringed operations(follows first come first serve, like a real calculator)
-GUI entry, buttons to make usage easier
+## Feature in GUI calculator are:
+
+- 여러 문자열 연산 지원
+- 사용자의 편의를 위한 버튼 형식 gui 제공
