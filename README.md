@@ -12,7 +12,7 @@ math(standard module in PyPl)
 
 tkinter (tkinter can be installed using; `pip install tkinter`)
 
-3.지원 단위
+3-1.지원 단위
 
 Category	Units
 Angles of Circles	radians (rad), degrees (deg)
@@ -26,3 +26,33 @@ Energy	watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal unit
 Speed	kilometers per hour (kph), miles per hour (mph), knots (kt)
 Force	Newton (N), dyne (dyn), Kilogram-Force (kp), Poundal (pdl)
 Digital Storage	bit (bit), byte (byte), kilobyte (kB), megabyte (MB), gigabyte (GB), terabyte (TB), petabyte (PB), exabyte (EB), zettabyte (ZB), yottabyte (YB)
+
+3-2. 기능
+
+Added functionalities in CLI calculator are:
+Addition
+Subtraction
+Multiplication
+Division
+Square
+Cube
+Square root
+Cube root
+Factorial
+Power
+Remainder
+Average
+Percentage
+Sin
+Cos
+Tan
+Permutation & Combination
+
+
+Feature in GUI calculator are:
+Addition
+Subtraction
+Multiplication
+Division
+Support for multiple stringed operations(follows first come first serve, like a real calculator)
+GUI entry, buttons to make usage easier
