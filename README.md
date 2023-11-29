@@ -31,24 +31,24 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 
 ### 3-2. 기능
 
--Added functionalities in CLI calculator are:
--Addition
--Subtraction
--Multiplication
--Division
--Square
--Cube
--Square root
--Cube root
--Factorial
--Power
--Remainder
--Average
--Percentage
--Sin
--Cos
--Tan
--Permutation & Combination
+- Added functionalities in CLI calculator are:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Square
+- Cube
+- Square root
+- Cube root
+- Factorial
+- Power
+- Remainder
+- Average
+- Percentage
+- Sin
+- Cos
+- Tan
+- Permutation & Combination
 
 
 Feature in GUI calculator are:
