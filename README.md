@@ -14,7 +14,7 @@ tkinter (tkinter can be installed using; `pip install tkinter`)
 
 3-1.지원 단위
 
-|Category|	Units|
+|카테고리|	단위|
 |------|---|
 |Angles of Circles|radians (rad), degrees (deg)|
 |Temperature|Celsius (C), Fahrenheit (F), Kelvins (K)|
