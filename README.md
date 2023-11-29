@@ -2,10 +2,10 @@
 unit converter + calculator
 
 
-### 1.프로젝트 소개
+### 1. 프로젝트 소개
 기존의 분리된 계산기와 단위 변환기를 통합하여 보완, 개선하고자 이 프로젝트를 기획하였다.
 
-### 2.실행 요구조건
+### 2. 실행 요구조건
 
 Python 3.6+
 
@@ -13,7 +13,7 @@ math(standard module in PyPl)
 
 tkinter (tkinter can be installed using; `pip install tkinter`)
 
-### 3-1.지원 단위
+### 3-1. 지원 단위
 
 |카테고리|	단위|
 |------|---|
@@ -48,4 +48,4 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 - Tan
 - Permutation & Combination
 - 여러 문자열 연산 지원
-- 사용자의 편의를 위한 버튼 형식 gui 제공
+- 사용자의 편의를 위한 버튼 형식 GUI 제공
