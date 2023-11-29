@@ -30,8 +30,6 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 |Digital Storage|	bit (bit), byte (byte), kilobyte (kB), megabyte (MB), gigabyte (GB), terabyte (TB), petabyte (PB), exabyte (EB), zettabyte (ZB), yottabyte (YB)|
 
 ### 3-2. 기능
-
-- Added functionalities in CLI calculator are:
 - Addition
 - Subtraction
 - Multiplication
@@ -49,9 +47,5 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 - Cos
 - Tan
 - Permutation & Combination
-
-
-## Feature in GUI calculator are:
-
 - 여러 문자열 연산 지원
 - 사용자의 편의를 위한 버튼 형식 gui 제공
