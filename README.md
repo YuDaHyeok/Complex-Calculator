@@ -50,5 +50,6 @@ Energy	|watt (w), joule (j), horsepower (hp), Calorie (cal), British thermal uni
 - 여러 문자열 연산 지원
 - 사용자의 편의를 위한 버튼 형식 GUI 제공
 
-  ### 4. 예시
+  ### 4. 예시 (미완성/ 디자인 예시 사진)
+  ![txt](./캡처.PNG)
   
