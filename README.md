@@ -7,5 +7,4 @@ unit converter + calculator
 2.실행 요구조건
 Python 3.6+
 math(standard module in PyPl)
-tkinter (tkinter can be installed using; `pip install tkinter)
-`pip install tkinter
+tkinter (tkinter can be installed using; `pip install tkinter`)
