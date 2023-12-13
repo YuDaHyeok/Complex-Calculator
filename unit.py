@@ -89,11 +89,17 @@ def convert_temperature(val, unit_in, unit_out):
 start_script = input("If you want to see the unit list, please enter a \"list\" \n"
                      "if you want to use unit converter, enter a correct units :")
 if start_script == "list":
-    print("distance_units = Millimeter (mm), Centimeter (cm), Meter (m), Kilometer (km), Inch (in), Feet (ft), Yard (yd), Mile (mile)\n"
+    print("----------------------------------------------------------------------------------------------------------------\n"
+          "distance_units = Millimeter (mm), Centimeter (cm), Meter (m), Kilometer (km), Inch (in), Feet (ft), Yard (yd), Mile (mile)\n"
+          "----------------------------------------------------------------------------------------------------------------\n"
           "temperature_units = Celsius (c), Fahrenheit (f), Kelvin (k)\n"
+          "----------------------------------------------------------------------------------------------------------------\n"
           "mass_units = Kilogram (kg), Gram (g), Milligram (mg), Ounce (oz), Pound (lb)\n"
+          "----------------------------------------------------------------------------------------------------------------\n"
           "date_units = day, hour, minute, second, year\n"
-          "speed_units = km/h, km/s, m/s, m/h, kn, mach")
+          "----------------------------------------------------------------------------------------------------------------\n"
+          "speed_units = km/h, km/s, m/s, m/h, kn, mach\n"
+          "----------------------------------------------------------------------------------------------------------------\n")
     from_unit = input("Enter the unit you are converting from (e.g., 'm' for meters): ")
 else:
     from_unit = start_script
