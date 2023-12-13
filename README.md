@@ -32,14 +32,9 @@ tkinter (tkinter can be installed using; `pip install tkinter`)
 - Square root
 - Cube root
 - Factorial
-- Power
-- Remainder
-- Average
-- Percentage
 - Sin
 - Cos
 - Tan
-- Permutation & Combination
 - 여러 문자열 연산 지원
 - 사용자의 편의를 위한 버튼 형식 GUI 제공
 
