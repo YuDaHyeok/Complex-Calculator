@@ -38,7 +38,7 @@ tkinter (tkinter can be installed using; `pip install tkinter`)
 - 여러 문자열 연산 지원
 - 사용자의 편의를 위한 버튼 형식 GUI 제공
 
-  ### 4. 예시 (미완성/ 디자인 예시 사진)
-  ![txt](./converter.PNG)
-  ![txt](./calculator.PNG)
-  ![txt](./chooser.PNG)
+  ### 4. 예시 (디자인)
+  ![txt](./converter.png)
+  ![txt](./calculator.png)
+  ![txt](./chooser.png)
